@@ -1,2 +1,2 @@
 # Git_exercise
-Git指令联系
+Git指令练习
